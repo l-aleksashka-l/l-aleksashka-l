@@ -8,3 +8,11 @@ I'm currenyly work for Java☕ & Mastering blockchain technologies⛓
 </div>
 </div>
 <br />
+
+                                                                                                             
+                                                                                                             
+## Social Media
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/александр-лукашевич-8472a81a7/) &emsp;
+[![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:2hala2real2madrid2@gmail.com) &emsp;
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/l_aleksashka_l) &emsp;
+[![](https://img.shields.io/badge/Kaggle-00599C?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/l-aleksashka-l/) &emsp;
