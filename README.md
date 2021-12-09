@@ -1,17 +1,11 @@
-### Hi there 👋  
-
-https://camo.githubusercontent.com/ac2d8d54d84778436970a58b31daa5831827eab0536c810c8cb52d26a25ee51e/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d6b72656d656e6576736b697926636f756e745f707269766174653d747275652673686f775f69636f6e733d74727565267468656d653d6461726b26686964655f7469746c653d74727565
-<!--
-**l-aleksashka-l/l-aleksashka-l** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Hi there👋  
+I'm currenyly work for Java☕ & Mastering blockchain technologies⛓
+<div r style="display: inline-block; justify-content: space-evenly;">
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=l-aleksashka-l&langs_count=6&hide=javascript,css&theme=dark">
+<img style="float: right;" src="https://github-readme-stats.vercel.app/api?username=l-aleksashka-l&count_private=true&show_icons=true&theme=dark&hide_title=true">
+<div style="justify-content: space-evenly;">
+  <img src="https://github.com/kremenevskiy/kremenevskiy/blob/master/Flame.gif?raw=true" width="200"">
+  <img src="https://github.com/kremenevskiy/kremenevskiy/blob/master/chill.gif?raw=true" align="right" width="200"">
+</div>
+</div>
+<br />
