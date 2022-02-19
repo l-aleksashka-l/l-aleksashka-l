@@ -1,6 +1,7 @@
 ### Hi there👋  
 
-<div align="justify">I'm currenyly work for Java☕</div><p> Mastering blockchain technologies⛓</p><p>The CV is in this repository)</p>
+<div align="justify">I'm currenyly work for Java☕</div><p> Mastering blockchain technologies⛓
+Swift developer too</p><p>The CV is in this repository)</p>
   
 <div r style="display: inline-block; justify-content: space-evenly;">
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=l-aleksashka-l&langs_count=6&hide=javascript,css&theme=dark">
