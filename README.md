@@ -1,5 +1,7 @@
 ### Hi there👋  
 
+<div align="justify">DATA SCIENTIST</div>
+<div>Swift developer🦅</p><p>The CV is in this repository)</>
 <div align="justify">I'm currenyly work for Java☕</div><div> Mastering blockchain technologies⛓</>
 <div>Swift developer🦅</p><p>The CV is in this repository)</>
   
